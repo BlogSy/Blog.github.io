@@ -70,4 +70,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:BlogSy/blog.github.io
-  branch: master
+branch: master
