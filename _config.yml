@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:BlogSy/BlogSy.github.io.git
+  repo: git@github.com:BlogSy/blogsy.github.io.git
   branch: master
